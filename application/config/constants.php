@@ -291,7 +291,7 @@ define('CONTROLLER_ADMIN_SUBMISSION', CONST_PATH_ADMIN . 'submission/');
 define('CONTROLLER_ADMIN_TICKETING', CONST_PATH_ADMIN . 'ticketing/');
 define('CONTROLLER_ADMIN_CMS', CONST_PATH_ADMIN . 'cms/');
 
-define('CONTROLLER_FRONT_DASHBOARD_CAPTAIN', 'captain_dashboard/');
+define('CONTROLLER_FRONT_DASHBOARD_CAPTAIN', 'dashboard/');
 
 /*
  * FUNCTIONS
@@ -533,3 +533,4 @@ define('PAGE_FRONT_ISSUE_REPLY_DETAILS', CONST_PATH_FRONT_TICKETING . 'view_repl
 define('PAGE_FRONT_TICKET_ISSUE_ASSIGNMENT', CONST_PATH_FRONT_TICKETING . 'view_email_template_issue_assignment');
 define('PAGE_FRONT_REPLY_CONTENT_APPEND', CONST_PATH_FRONT_TICKETING . 'view_reply_content_append');
 define('PAGE_FRONT_TICKET_CONTENT_APPEND', CONST_PATH_FRONT_TICKETING . 'view_ticket_content_append');
+ 
